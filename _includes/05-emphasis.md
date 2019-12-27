@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Programming
+  * _Go_
+  * __Python__
+* Markdown
+  * _Who_ doesn't like a little __Markdown__ 
+* SDN
+  * Help run the worlds largest __SDN__ 
